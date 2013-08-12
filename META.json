@@ -4,9 +4,9 @@
       "Matt Sergeant"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.68, CPAN::Meta::Converter version 2.131560",
+   "generated_by" : "ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.132140",
    "license" : [
-      "unknown"
+      "perl_5"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -35,5 +35,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.21"
+   "version" : "1.22"
 }
