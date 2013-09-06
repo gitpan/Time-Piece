@@ -31,9 +31,11 @@
          }
       },
       "runtime" : {
-         "requires" : {}
+         "requires" : {
+            "Exporter" : "5.57"
+         }
       }
    },
    "release_status" : "stable",
-   "version" : "1.22"
+   "version" : "1.23"
 }

@@ -17,5 +17,6 @@ no_index:
   directory:
     - t
     - inc
-requires: {}
-version: 1.22
+requires:
+  Exporter: 5.57
+version: 1.23
