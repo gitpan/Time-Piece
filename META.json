@@ -4,7 +4,7 @@
       "Matt Sergeant"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.132140",
+   "generated_by" : "ExtUtils::MakeMaker version 6.84, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "perl_5"
    ],
@@ -37,5 +37,10 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.23"
+   "resources" : {
+      "repository" : {
+         "url" : "https://github.com/rjbs/Time-Piece"
+      }
+   },
+   "version" : "1.24"
 }
