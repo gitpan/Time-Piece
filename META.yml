@@ -21,4 +21,4 @@ requires:
   Exporter: 5.57
 resources:
   repository: https://github.com/rjbs/Time-Piece
-version: 1.26
+version: 1.27
